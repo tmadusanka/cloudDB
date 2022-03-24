@@ -1,6 +1,6 @@
 from flask import Flask, request, jsonify 
 
-from database import *
+#from database import *
 import os
 import json
 
